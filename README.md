@@ -56,4 +56,6 @@ Relasi antara kedua entitas ini bersifat one-to-many, artinya satu departemen da
 
 Begitu juga dengan yang bagian tabel Departemens, namun saat akan menghapus baris di departmens controller akan mengecek dulu apakah ada id yang sedang di pakai di tabel Students, karna Departmens menjadi fk di tabel tersebut.
 
+# Dokumentasi
+![tp 9](https://github.com/user-attachments/assets/ce346ed7-77b6-4011-b6e7-8f48bf31b5e0)
 
