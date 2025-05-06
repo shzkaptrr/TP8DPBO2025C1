@@ -7,6 +7,7 @@ Saya Shizuka Maulia Putri NIM 2308744 mengerjakan Tugas Praktikum 9 dalam mata k
 
 # ERD
 ![image](https://github.com/user-attachments/assets/11f3f3a3-0cbe-464b-91b9-1a2ce0a35bf7)
+Relasi antara kedua entitas ini bersifat one-to-many, artinya satu departemen dapat memiliki banyak mahasiswa, tetapi setiap mahasiswa hanya terdaftar di satu departemen. Relasi ini diimplementasikan melalui kolom id_department di tabel students yang merujuk ke kolom id di tabel departments.
 
 ---
 
