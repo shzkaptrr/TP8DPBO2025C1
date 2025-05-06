@@ -1,6 +1,6 @@
 # Janji
 
-Saya Shizuka Maulia Putri NIM 2308744 mengerjakan Tugas Praktikum 9 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Shizuka Maulia Putri NIM 2308744 mengerjakan Tugas Praktikum 8 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 
 ---
